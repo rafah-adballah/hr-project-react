@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "employeeID": 1,
+    "staffType": "ملاك اداري",
+    "createdAt": "2025/06/04",
+    "updateAt": "2028/03/27"
+  },
+  {
+    "id": 2,
+    "employeeID": 3,
+    "staffType": "ملاك تدريسي",
+    "createdAt": "2028/12/30",
+    "updateAt": "2042/02/09"
+  },
+  {
+    "id": 3,
+    "employeeID": 4,
+    "staffType": "ملاك ديني",
+    "createdAt": "2028/12/30",
+    "updateAt": "2042/02/09"
+  }
+]

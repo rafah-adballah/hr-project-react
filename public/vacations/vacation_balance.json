@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "employeeID": 1,
+    "vacationBalance": 1,
+    "createdAt": "2033/11/30",
+    "updateAt": "2026/11/07"
+  },
+  {
+    "id": 2,
+    "employeeID": 2,
+    "vacationBalance": 2,
+    "createdAt": "2057/08/29",
+    "updateAt": "2040/07/20"
+  },
+  {
+    "id": 3,
+    "employeeID": 3,
+    "vacationBalance": 3,
+    "createdAt": "2024/07/06",
+    "updateAt": "2023/02/17"
+  },
+  {
+    "id": 4,
+    "employeeID": 4,
+    "vacationBalance": 4,
+    "createdAt": "2037/08/16",
+    "updateAt": "2034/03/20"
+  },
+  {
+    "id": 5,
+    "employeeID": 5,
+    "vacationBalance": 5,
+    "createdAt": "2024/11/18",
+    "updateAt": "2053/10/17"
+  },
+  {
+    "id": 6,
+    "employeeID": 6,
+    "vacationBalance": 6,
+    "createdAt": "2047/10/24",
+    "updateAt": "2055/12/13"
+  },
+  {
+    "id": 7,
+    "employeeID": 7,
+    "vacationBalance": 15,
+    "createdAt": "2028/10/24",
+    "updateAt": "2033/11/24"
+  },
+  {
+    "id": 8,
+    "employeeID": 8,
+    "vacationBalance": 17,
+    "createdAt": "2025/12/23",
+    "updateAt": "2051/12/15"
+  },
+  {
+    "id": 9,
+    "employeeID": 9,
+    "vacationBalance": 18,
+    "createdAt": "2023/04/19",
+    "updateAt": "2054/01/21"
+  },
+  {
+    "id": 10,
+    "employeeID": 10,
+    "vacationBalance": 16,
+    "createdAt": "2043/01/12",
+    "updateAt": "2025/10/30"
+  }
+]

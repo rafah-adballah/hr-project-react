@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "jobType": "ادارية",
+    "jobTitle": "مدير عام",
+    "jobDegree": 1,
+    "isUpgraded": true,
+    "createdAt": "2057/08/22",
+    "updateAt": "2029/08/24"
+  },
+  {
+    "id": 2,
+    "jobType": "علوم صرفة",
+    "jobTitle": " ر.مبرمجين اقدم",
+    "jobDegree": 2,
+    "isUpgraded": false,
+    "createdAt": "2024/04/04",
+    "updateAt": "2023/01/08"
+  },
+  {
+    "id": 3,
+    "jobType": "هندسية",
+    "jobTitle": "ر.مهندسين اقدم ",
+    "jobDegree": 2,
+    "isUpgraded": false,
+    "createdAt": "2050/03/08",
+    "updateAt": "2036/09/10"
+  },
+  {
+    "id": 4,
+    "jobType": "هندسية",
+    "jobTitle": "ر.مهندسين",
+    "jobDegree": 3,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 5,
+    "jobType": "علوم صرفة",
+    "jobTitle": "ر.مبرمجين",
+    "jobDegree": 3,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 6,
+    "jobType": "الادارية والاقتصادية",
+    "jobTitle": " معاون رئيس احصائيين ",
+    "jobDegree": 4,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 7,
+    "jobType": "الادارية والاقتصادية",
+    "jobTitle": " احصائي اقدم",
+    "jobDegree": 5,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 8,
+    "jobType": "انسانية",
+    "jobTitle": " مترجم اقدم",
+    "jobDegree": 5,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 9,
+    "jobType": "هندسية",
+    "jobTitle": " مهندس",
+    "jobDegree": 6,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 10,
+    "jobType": "علوم صرفة",
+    "jobTitle": " مبرمج",
+    "jobDegree": 6,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 11,
+    "jobType": "الادارية والاقتصادية",
+    "jobTitle": " معاون احصائي",
+    "jobDegree": 7,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 12,
+    "jobType": "هندسية",
+    "jobTitle": " معاون مهندس",
+    "jobDegree": 7,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 13,
+    "jobType": "ادارية",
+    "jobTitle": " كاتب",
+    "jobDegree": 8,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 14,
+    "jobType": "ادارية",
+    "jobTitle": "كاتب حسابات",
+    "jobDegree": 8,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 15,
+    "jobType": "فني",
+    "jobTitle": " حرفي اول",
+    "jobDegree": 9,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 16,
+    "jobType": "فني",
+    "jobTitle": " سائق اول",
+    "jobDegree": 9,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 17,
+    "jobType": "فني",
+    "jobTitle": " سائق ثاني",
+    "jobDegree": 10,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  },
+  {
+    "id": 18,
+    "jobType": "علوم صرفة",
+    "jobTitle": " معاون مبرمج",
+    "jobDegree": 7,
+    "isUpgraded": true,
+    "createdAt": "2047/04/30",
+    "updateAt": "2059/10/15"
+  }
+]

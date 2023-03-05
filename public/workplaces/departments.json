@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "دائرة الادارية",
+    "parent": 4,
+    "departmentType": "دائرة عامة",
+    "createdAt": "4/27/2042",
+    "updateAt": "3/4/2039"
+  },
+  {
+    "id": 2,
+    "title": "مكتب رئيس الديوان",
+    "parent": 0,
+    "departmentType": "مكتب",
+    "createdAt": "8/25/2052",
+    "updateAt": "8/3/2054"
+  },
+  {
+    "id": 3,
+    "title": "قسم ادارة الموارد البشرية",
+    "parent": 1,
+    "departmentType": "قسم",
+    "createdAt": "8/21/2040",
+    "updateAt": "11/16/2049"
+  },
+  {
+    "id": 4,
+    "title": "مكتب الوكيل الاداري والمالي",
+    "parent": 0,
+    "departmentType": "مكتب",
+    "createdAt": "1/9/2026",
+    "updateAt": "10/14/2023"
+  },
+  {
+    "id": 5,
+    "title": "الدائرة القانونية",
+    "parent": 5,
+    "departmentType": "دائرة عامة",
+    "createdAt": "7/9/2035",
+    "updateAt": "5/12/2048"
+  },
+  {
+    "id": 6,
+    "title": "شعبة الاجازات",
+    "parent": 3,
+    "departmentType": "شعبة",
+    "createdAt": "12/15/2031",
+    "updateAt": "3/4/2049"
+  },
+  {
+    "id": 7,
+    "title": "قسم الدعاوى",
+    "parent": 5,
+    "departmentType": "قسم",
+    "createdAt": "7/28/2046",
+    "updateAt": "8/24/2030"
+  },
+  {
+    "id": 8,
+    "title": "هيئة ادارة اموال الوقف الشيعي",
+    "parent": 2,
+    "departmentType": "هيئة",
+    "createdAt": "8/6/2034",
+    "updateAt": "11/29/2031"
+  },
+  {
+    "id": 9,
+    "title": "المركز الوطني لعلوم القران",
+    "parent": 2,
+    "departmentType": "مركز",
+    "createdAt": "9/17/2054",
+    "updateAt": "2/21/2041"
+  },
+  {
+    "id": 10,
+    "title": "قسم تكنولوجيا المعلومات",
+    "parent": 2,
+    "departmentType": "قسم",
+    "createdAt": "7/15/2059",
+    "updateAt": "9/27/2044"
+  },
+  {
+    "id": 11,
+    "title": "قسم التوثيق",
+    "parent": 5,
+    "departmentType": "قسم",
+    "createdAt": "7/15/2059",
+    "updateAt": "9/27/2044"
+  },
+  {
+    "id": 12,
+    "title": "شعبة تكنلوجيا المعلومات ",
+    "parent": 11,
+    "departmentType": "شعبة",
+    "createdAt": "7/15/2059",
+    "updateAt": "9/27/2044"
+  },
+  {
+    "id": 13,
+    "title": "شعبة البرمجة",
+    "parent": 10,
+    "departmentType": "شعبة",
+    "createdAt": "7/15/2059",
+    "updateAt": "9/27/2044"
+  },
+  {
+    "id": 14,
+    "title": "شعبة الانترنت",
+    "parent": 2,
+    "departmentType": "شعبة",
+    "createdAt": "7/15/2059",
+    "updateAt": "9/27/2044"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "employeeID": 1,
+    "department": 1,
+    "section": 3,
+    "division": 6,
+    "documents": 1,
+    "createdAt": "2029/08/06",
+    "updatedAt": "2035/04/29"
+  },
+  {
+    "id": 1,
+    "employeeID": 1,
+    "department": 2,
+    "section": 14,
+    "division": 0,
+    "documents": 2,
+    "createdAt": "2029/08/06",
+    "updatedAt": "2035/04/29"
+  },
+  {
+    "id": 2,
+    "employeeID": 2,
+    "department": 5,
+    "section": 11,
+    "division": 12,
+    "documents": 3,
+    "createdAt": "2022/01/14",
+    "updatedAt": "2027/06/04"
+  },
+  {
+    "id": 3,
+    "employeeID": 1,
+    "department": 10,
+    "section": 13,
+    "division": 0,
+    "documents": 4,
+    "createdAt": "2024/01/26",
+    "updatedAt": "2049/12/24"
+  },
+  {
+    "id": 4,
+    "employeeID": 4,
+    "department": 2,
+    "section": 14,
+    "division": 0,
+    "documents": 5,
+    "createdAt": "2055/02/27",
+    "updatedAt": "2035/07/20"
+  },
+  {
+    "id": 4,
+    "employeeID": 4,
+    "department": 1,
+    "section": 3,
+    "division": 6,
+    "documents": 6,
+    "createdAt": "2055/02/27",
+    "updatedAt": "2035/07/20"
+  }
+]

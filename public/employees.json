@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "employeeID": 1,
+    "fullname": "رفاه عبدالله",
+    "gender": "Male",
+    "birthdate": "1999/02/03",
+    "mother": "سوسن سلمان",
+    "marital": "متزوجة",
+    "children": 3,
+    "wife": "مناف ابراهيم",
+    "address": "شارع فلسطين",
+    "documents": [{}, {}, {}, {}],
+    "createdAt": "2022/03/15",
+    "update": "2057/09/18"
+  },
+  {
+    "id": 2,
+    "employeeID": 2,
+    "fullname": "مها سعد",
+    "gender": "Male",
+    "birthdate": "1994/10/29",
+    "mother": "صبرية جلوب",
+    "marital": "متزوجة",
+    "children": 0,
+    "wife": "صفاء مهدي",
+    "address": "البلديات",
+    "documents": [],
+    "createdAt": "2038/04/15",
+    "update": "2039/05/16"
+  },
+  {
+    "id": 3,
+    "employeeID": 3,
+    "fullname": "رندة جبار",
+    "gender": "Male",
+    "birthdate": "1994/11/03",
+    "mother": "امل جاسم",
+    "marital": "اعزب",
+    "children": 0,
+    "wife": "لايوجد",
+    "address": "طوبجي",
+    "documents": [{}, {}, {}],
+    "createdAt": "2049/07/14",
+    "update": "2040/09/29"
+  },
+  {
+    "id": 4,
+    "employeeID": 4,
+    "fullname": "وردة جبار",
+    "gender": "Male",
+    "birthdate": "1999/12/21",
+    "mother": "فخلرية محمد",
+    "marital": "مطلقة",
+    "children": 0,
+    "wife": "لايوجد",
+    "address": "مشتل",
+    "documents": [{}, {}],
+    "createdAt": "2052/08/06",
+    "update": "2032/08/23"
+  }
+]

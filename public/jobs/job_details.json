@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "employeeID": 1,
+    "jobTitle": 4,
+    "workplace": 1,
+    "startDate": "1997/07/21",
+    "hireDate": "2031/04/19",
+    "documents": 59,
+    "employeeStatus": "مستمر بالدوام",
+    "staffType": 1,
+    "orderNum": "Raleigh Colvill",
+    "orderDate": "11/10/2022",
+    "createdAt": "2043/05/25",
+    "updateAt": "2058/10/24"
+  },
+  {
+    "id": 2,
+    "employeeID": 2,
+    "jobTitle": 10,
+    "workplace": 3,
+    "startDate": "2001/05/25",
+    "hireDate": "2042/12/12",
+    "documents": 60,
+    "employeeStatus": "نقل",
+    "staffType": 1,
+    "orderNum": "Doralin Vasiltsov",
+    "orderDate": "4/7/2022",
+    "createdAt": "2054/03/07",
+    "updateAt": "2031/01/25"
+  },
+  {
+    "id": 3,
+    "employeeID": 3,
+    "jobTitle": 18,
+    "workplace": 1,
+    "startDate": "2001/10/27",
+    "hireDate": "2046/05/27",
+    "documents": 61,
+    "employeeStatus": "مستمر بالدوام",
+    "staffType": 1,
+    "orderNum": "Gabbie Figge",
+    "orderDate": "9/3/2022",
+    "createdAt": "2042/10/06",
+    "updateAt": "2026/04/24"
+  },
+  {
+    "id": 4,
+    "employeeID": 4,
+    "jobTitle": 17,
+    "workplace": 4,
+    "startDate": "1988/01/31",
+    "hireDate": "2044/05/19",
+    "documents": 62,
+    "employeeStatus": "اجازة",
+    "staffType": 1,
+    "orderNum": "Ulises Stannis",
+    "orderDate": "2/5/2023",
+    "createdAt": "2044/10/10",
+    "updateAt": "2056/05/18"
+  }
+]

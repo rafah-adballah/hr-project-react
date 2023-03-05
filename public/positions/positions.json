@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "positionTitle": "مسؤول شعبة ",
+    "extra": "15%",
+    "createdAt": "2046/01/02",
+    "updateAt": "2059/12/23"
+  },
+  {
+    "id": 2,
+    "positionTitle": "مدير قسم",
+    "extra": "20%",
+    "createdAt": "2057/04/19",
+    "updateAt": "2045/04/20"
+  },
+  {
+    "id": 3,
+    "positionTitle": "معاون مدير ",
+    "extra": "20%",
+    "createdAt": "2030/04/21",
+    "updateAt": "2042/06/09"
+  },
+  {
+    "id": 4,
+    "positionTitle": "مدير عام",
+    "extra": "30%",
+    "createdAt": "2028/04/12",
+    "updateAt": "2029/12/18"
+  },
+  {
+    "id": 5,
+    "positionTitle": "وكيل",
+    "extra": "50%",
+    "createdAt": "2025/05/30",
+    "updateAt": "2034/04/13"
+  },
+  {
+    "id": 6,
+    "positionTitle": "رئيس ديوان",
+    "extra": "100%",
+    "createdAt": "2025/06/20",
+    "updateAt": "2027/05/29"
+  },
+  {
+    "id": 7,
+    "positionTitle": "مدير مكتب",
+    "extra": "20%",
+    "createdAt": "2057/02/15",
+    "updateAt": "2044/02/23"
+  }
+]

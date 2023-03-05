@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "الدرجة الاولى",
+    "jobDegree": 1,
+    "salary": 948000,
+    "bounce": 33,
+    "period": 15,
+    "createdAt": "2047/03/13",
+    "updateAt": "2052/11/10"
+  },
+  {
+    "id": 2,
+    "title": "الدرجة الثانية",
+    "jobDegree": 2,
+    "salary": 758000,
+    "bounce": 9,
+    "period": 55,
+    "createdAt": "2032/07/15",
+    "updateAt": "2022/05/21"
+  },
+  {
+    "id": 3,
+    "title": "الدرجة الثالثة",
+    "jobDegree": 3,
+    "salary": 621000,
+    "bounce": 41,
+    "period": 71,
+    "createdAt": "2054/04/09",
+    "updateAt": "2022/01/25"
+  },
+  {
+    "id": 4,
+    "title": "الدرجة الرابعة",
+    "jobDegree": 4,
+    "salary": 509000,
+    "bounce": 36,
+    "period": 11,
+    "createdAt": "2032/04/08",
+    "updateAt": "2058/07/12"
+  },
+  {
+    "id": 5,
+    "title": "الدرجة الخامسة",
+    "jobDegree": 5,
+    "salary": 429000,
+    "bounce": 42,
+    "period": 27,
+    "createdAt": "2054/04/12",
+    "updateAt": "2031/10/25"
+  },
+  {
+    "id": 6,
+    "title": " الدرجة السادسة",
+    "jobDegree": 6,
+    "salary": 362000,
+    "bounce": 62,
+    "period": 3,
+    "createdAt": "2048/04/30",
+    "updateAt": "2049/12/15"
+  },
+  {
+    "id": 7,
+    "title": "الدرجة السابعة",
+    "jobDegree": 7,
+    "salary": 296000,
+    "bounce": 76,
+    "period": 59,
+    "createdAt": "2037/12/03",
+    "updateAt": "2056/02/04"
+  },
+  {
+    "id": 8,
+    "title": "الدرجة الثامنة",
+    "jobDegree": 8,
+    "salary": 240000,
+    "bounce": 92,
+    "period": 94,
+    "createdAt": "2023/06/14",
+    "updateAt": "2024/02/13"
+  },
+  {
+    "id": 9,
+    "title": "الدرجة التاسعة",
+    "jobDegree": 9,
+    "salary": 185000,
+    "bounce": 90,
+    "period": 40,
+    "createdAt": "2025/03/04",
+    "updateAt": "2047/03/12"
+  },
+  {
+    "id": 10,
+    "title": "الدرجة العاشرة",
+    "jobDegree": 10,
+    "salary": 140000,
+    "bounce": 2,
+    "period": 76,
+    "createdAt": "2030/06/30",
+    "updateAt": "2048/07/13"
+  }
+]
